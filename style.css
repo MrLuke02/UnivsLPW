@@ -3,3 +3,21 @@ h1{
     border-style: solid;
     margin: 50px;
 }
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: red;
+    font-size: 20px;
+}
+
+a:active{
+    color: blue;
+    font-size: 25px;
+}
+
+a:visited{
+    color:green:
+}
